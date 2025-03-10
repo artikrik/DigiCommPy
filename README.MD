@@ -1,6 +1,9 @@
+## Налаштування
 для встановлення залежностей спочатку запустити в терміналі:
 
 ``pip install -r requirements.txt``
+
+## Зміст:
 
 * Program 1: DigiCommPy\signalgen.py: Function to generate sine wave
 * Program 2: DigiCommPy\demo scripts.py: Call the function and plot output
